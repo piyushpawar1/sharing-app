@@ -1,4 +1,4 @@
-# photo_share_app
+# sharing_app
 
 A new Flutter project.
 
